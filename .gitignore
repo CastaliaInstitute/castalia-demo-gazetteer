@@ -1,0 +1,7 @@
+_gazetteer/
+*.log
+*.aux
+*.out
+*.toc
+.DS_Store
+

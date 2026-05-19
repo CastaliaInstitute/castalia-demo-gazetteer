@@ -1,0 +1,19 @@
+{
+  "household": {
+    "name": "Demo Household",
+    "location": "Monument, CO",
+    "theme": ""
+  },
+  "children": [
+    {
+      "key": "finn",
+      "name": "Finn",
+      "age": 2
+    },
+    {
+      "key": "aleia",
+      "name": "Aleia",
+      "age": 1
+    }
+  ]
+}
