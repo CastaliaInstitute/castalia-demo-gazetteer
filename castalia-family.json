@@ -1,28 +1,44 @@
 {
   "family": {
-    "slug": "demo",
-    "display_name": "Demo Household",
-    "location": "Monument, CO",
-    "theme": ""
+    "slug": "march",
+    "display_name": "March Family",
+    "location": "Concord, MA",
+    "theme": "Public-domain demo"
   },
   "guardians": [
     {
-      "name": "Demo Guardian",
+      "name": "Marmee March",
       "email": "",
       "github": "",
-      "relationship": "guardian"
+      "relationship": "parent"
+    },
+    {
+      "name": "Robert March",
+      "email": "",
+      "github": "",
+      "relationship": "parent"
     }
   ],
   "children": [
     {
-      "key": "finn",
-      "name": "Finn",
-      "age": 2
+      "key": "meg",
+      "name": "Meg",
+      "age": 16
     },
     {
-      "key": "aleia",
-      "name": "Aleia",
-      "age": 1
+      "key": "jo",
+      "name": "Jo",
+      "age": 15
+    },
+    {
+      "key": "beth",
+      "name": "Beth",
+      "age": 13
+    },
+    {
+      "key": "amy",
+      "name": "Amy",
+      "age": 12
     }
   ]
 }
