@@ -1,9 +1,18 @@
 {
-  "household": {
-    "name": "Demo Household",
+  "family": {
+    "slug": "demo",
+    "display_name": "Demo Household",
     "location": "Monument, CO",
     "theme": ""
   },
+  "guardians": [
+    {
+      "name": "Demo Guardian",
+      "email": "",
+      "github": "",
+      "relationship": "guardian"
+    }
+  ],
   "children": [
     {
       "key": "finn",
