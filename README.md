@@ -1,25 +1,25 @@
-# Castalia Gazetteer Member Archive
+# Castalia Gazetteer Demo Archive
 
-This repository stores one household's private Castalia Gazette and Gazetteer outputs.
+This public repository stores sample Castalia Gazette and Gazetteer outputs for the March family from *Little Women*.
+
+Production family archives are private. Do not place real family names, birth dates, locations, or generated personal history in public demo repositories.
 
 ## Layout
 
 ```text
-castalia-member.json
+castalia-family.json
 outputs/YYYY-MM-DD/gazette.pdf
 outputs/YYYY-MM-DD/pupils/{pupil_key}/gazetteer.pdf
 outputs/YYYY-MM-DD/pupils/{pupil_key}/art-sheet.pdf
-outputs/YYYY-MM-DD/pupils/{pupil_key}/manifest.json
+outputs/YYYY-MM-DD/pupils/{pupil_key}/field-notebook.pdf
+outputs/YYYY-MM-DD/manifest.json
 ```
 
-## Generate
+## Demo Pupils
 
-Use **Actions -> Generate Castalia Gazetteer -> Run workflow**.
+- `meg`
+- `jo`
+- `beth`
+- `amy`
 
-Required repository secrets:
-
-- `GEMINI_API_KEY` for daily Gazette content.
-- `CASTALIA_GAZETTEER_TOKEN` if `CastaliaInstitute/gazetteer` is private.
-
-The workflow commits generated PDFs back to this private repository.
-
+The PDFs in this public repo are static sample outputs. Private family repos use the same layout but remain visible only to the family's guardians and the server-side member download function.
