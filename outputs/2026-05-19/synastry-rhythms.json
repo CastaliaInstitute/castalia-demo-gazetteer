@@ -1,0 +1,169 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-20T00:31:13.390635+00:00",
+  "household": {
+    "back_rhythm": [
+      {
+        "label": "Afternoon",
+        "text": "Best window for Marmee March, Beth."
+      },
+      {
+        "label": "Evening",
+        "text": "Best window for Robert March."
+      },
+      {
+        "label": "Planning",
+        "text": "Best window for Meg."
+      },
+      {
+        "label": "Late Morning",
+        "text": "Best window for Jo, Amy."
+      }
+    ],
+    "headline": "Deepening household rhythm",
+    "parent_practice": "Name the rhythm, then offer one concrete next step.",
+    "set_out": [
+      "Clap a short pattern before table work.",
+      "Close with gratitude and the next day's first step.",
+      "Mark the day with three simple symbols.",
+      "Read one paragraph aloud, then pause."
+    ],
+    "summary": "2026-05-19 favors deepening for Marmee March, Robert March, Meg, Jo, and the rest of the household. Keep the day observable, kind, and adjustable."
+  },
+  "method": "symbolic rhythm heuristics; planning cues only; no prediction or compatibility scoring",
+  "pairs": [
+    {
+      "cue": "Give Marmee March and Robert March separate starts, then reconvene around one concrete object.",
+      "people": "Marmee March + Robert March",
+      "tone": "contrast rhythm"
+    },
+    {
+      "cue": "Give Marmee March and Meg separate starts, then reconvene around one concrete object.",
+      "people": "Marmee March + Meg",
+      "tone": "contrast rhythm"
+    },
+    {
+      "cue": "Let Marmee March and Jo begin together, then separate tasks if energy scatters.",
+      "people": "Marmee March + Jo",
+      "tone": "shared rhythm"
+    },
+    {
+      "cue": "Let Marmee March and Beth begin together, then separate tasks if energy scatters.",
+      "people": "Marmee March + Beth",
+      "tone": "shared rhythm"
+    },
+    {
+      "cue": "Let Marmee March and Amy begin together, then separate tasks if energy scatters.",
+      "people": "Marmee March + Amy",
+      "tone": "shared rhythm"
+    },
+    {
+      "cue": "Let Robert March and Meg begin together, then separate tasks if energy scatters.",
+      "people": "Robert March + Meg",
+      "tone": "shared rhythm"
+    },
+    {
+      "cue": "Give Robert March and Jo separate starts, then reconvene around one concrete object.",
+      "people": "Robert March + Jo",
+      "tone": "contrast rhythm"
+    },
+    {
+      "cue": "Give Robert March and Beth separate starts, then reconvene around one concrete object.",
+      "people": "Robert March + Beth",
+      "tone": "contrast rhythm"
+    },
+    {
+      "cue": "Give Robert March and Amy separate starts, then reconvene around one concrete object.",
+      "people": "Robert March + Amy",
+      "tone": "contrast rhythm"
+    },
+    {
+      "cue": "Pair Meg and Jo for a short handoff: one notices, one records.",
+      "people": "Meg + Jo",
+      "tone": "complementary rhythm"
+    }
+  ],
+  "people": [
+    {
+      "age": 0,
+      "archetype": "Deep Listener",
+      "best_window": "afternoon",
+      "cue": "Give quiet preview time before asking for a response.",
+      "cycle_day": 3,
+      "has_birth_date": false,
+      "key": "Marmee March",
+      "name": "Marmee March",
+      "pulse": "deepening",
+      "relationship": "parent",
+      "ritual": "Read one paragraph aloud, then pause."
+    },
+    {
+      "age": 0,
+      "archetype": "Hearth Keeper",
+      "best_window": "evening",
+      "cue": "Use warmth, repetition, and shared language for transitions.",
+      "cycle_day": 6,
+      "has_birth_date": false,
+      "key": "Robert March",
+      "name": "Robert March",
+      "pulse": "making",
+      "relationship": "parent",
+      "ritual": "Close with gratitude and the next day's first step."
+    },
+    {
+      "age": 16,
+      "archetype": "Pattern Weaver",
+      "best_window": "planning",
+      "cue": "Show the map of the day before asking for the next task.",
+      "cycle_day": 7,
+      "has_birth_date": false,
+      "key": "meg",
+      "name": "Meg",
+      "pulse": "integration",
+      "relationship": "",
+      "ritual": "Mark the day with three simple symbols."
+    },
+    {
+      "age": 15,
+      "archetype": "Bright Spark",
+      "best_window": "late morning",
+      "cue": "Use movement, humor, and quick wins before deep focus.",
+      "cycle_day": 2,
+      "has_birth_date": false,
+      "key": "jo",
+      "name": "Jo",
+      "pulse": "active focus",
+      "relationship": "",
+      "ritual": "Clap a short pattern before table work."
+    },
+    {
+      "age": 13,
+      "archetype": "Deep Listener",
+      "best_window": "afternoon",
+      "cue": "Give quiet preview time before asking for a response.",
+      "cycle_day": 3,
+      "has_birth_date": false,
+      "key": "beth",
+      "name": "Beth",
+      "pulse": "deepening",
+      "relationship": "",
+      "ritual": "Read one paragraph aloud, then pause."
+    },
+    {
+      "age": 12,
+      "archetype": "Bright Spark",
+      "best_window": "late morning",
+      "cue": "Use movement, humor, and quick wins before deep focus.",
+      "cycle_day": 2,
+      "has_birth_date": false,
+      "key": "amy",
+      "name": "Amy",
+      "pulse": "active focus",
+      "relationship": "",
+      "ritual": "Clap a short pattern before table work."
+    }
+  ],
+  "privacy": "private-family-repo-only",
+  "schema_version": 1,
+  "source": "castalia-family.json"
+}
